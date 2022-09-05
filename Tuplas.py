@@ -1,0 +1,10 @@
+tupla = ('rojo', 'azul', 'verde', 'amarillo', 'rosa', 'negro','morado')
+lista = ['Juan', 'Luis', 'Pedro', 'Lucas', 'Marcos', 'Leonardo']
+print(tupla)
+print(tupla[2])
+print(type(lista))
+print(type(tupla))
+tupla1 = tuple(lista)
+lista1 = list(tupla)
+print(type(lista1))
+print(type(tupla1))
